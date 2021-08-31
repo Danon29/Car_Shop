@@ -20,7 +20,7 @@ namespace asp1.Data.mocks
                     {
                         name = "Tesla",
                         shortDescription = "Something again",
-                        img = "",
+                        img = "/img/tesla.jpg",
                         price = 1000,
                         isFavourite = true,
                         available = true,
@@ -30,7 +30,7 @@ namespace asp1.Data.mocks
                     {
                         name = "Matiz",
                         shortDescription = "Something again",
-                        img = "",
+                        img = "/img/matiz.jpg",
                         price = 10020,
                         isFavourite = true,
                         available = false,
@@ -40,7 +40,7 @@ namespace asp1.Data.mocks
                     {
                         name = "bmw",
                         shortDescription = "Something again",
-                        img = "",
+                        img = "/img/bmw.jpg",
                         price = 1000,
                         isFavourite = false,
                         available = true,
@@ -50,7 +50,7 @@ namespace asp1.Data.mocks
                     {
                         name = "toyota",
                         shortDescription = "Something again",
-                        img = "",
+                        img = "/img/toyota.jpg",
                         price = 10100,
                         isFavourite = true,
                         available = true,
